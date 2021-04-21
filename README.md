@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @klint
-- qie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Node and React
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on exchange of skills
 - 📫 How to reach me 📮 kuicode0066@163.com or QQ：309227217
 
 <!---
