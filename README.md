@@ -2,7 +2,7 @@
 
 - 👋 Hi, pretty
 - 👀 What are u waitting for
-- 🌱 Let`s enter my ocean
+- 🌱 Let`s enter my ocean。 The purest is the craziest！！！
 # 
 
 
