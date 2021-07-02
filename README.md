@@ -1,18 +1,23 @@
-<img src="https://gzk-img.oss-cn-hangzhou.aliyuncs.com/u%3D2155400010%2C3097390767%26fm%3D26%26fmt%3Dauto%26gp%3D0.webp" width = "100" height = "100" div align=right />
+<img src="https://gzk-img.oss-cn-hangzhou.aliyuncs.com/u%3D2155400010%2C3097390767%26fm%3D26%26fmt%3Dauto%26gp%3D0.webp" width = "130" height = "130"  div align=right />
 
-- 👋 Hi, I’m @klint
-- 👀 I’m interested in Node and React
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on exchange of skills
-- 📫 How to reach me 📮 kuicode0066@163.com or QQ：309227217
+- 👋 Hi, pretty
+- 👀 What are u waitting for
+- 🌱 Let`s enter my ocean
+# 
 
-**これがヤンキーの実力ですか？❣️**
-<span color="bule">dwadw</span>
-<font color="red"> text </font>
-<!---
-kuicodefly/kuicodefly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div align=right color="red">これがヤンキーの実力ですか？❣️</div>
+
+# 广告位
+> 出售98年单身汪                    
+> 不干活💘不做饭💘死能睡😴         
+> 送豪华套餐：臭袜子😈脏衣服                    
+> 另送👇🏿       
+> github账号 无pr 无issue 无repositories 八成新
+# 
+**�🎲  � 🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲  �  🎲 �**
+
+
 
 <!-- <div align=center> -->
 
@@ -20,5 +25,3 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tklint)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<Input/>
